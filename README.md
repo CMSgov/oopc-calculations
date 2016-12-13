@@ -10,3 +10,5 @@ The oopc module (as of 12/12/2016) is an implementation of the above calculation
 
 As a work of the United States Government, this project is in the
 public domain within the United States.
+
+[Full license can be found here](https://github.com/CMSgov/oopc-calculations/blob/oopc-calc/LICENSE.md).
